@@ -13,7 +13,7 @@
 
 ## 🚀 Live Demo
 
-👉 **[Try Customer Churn AI Live](https://ai-customer-churns.streamlit.app/)**
+👉 **[Try Customer Churn AI Live] https://ai-customer-churns.streamlit.app
 
 ---
 
